@@ -23,11 +23,11 @@ Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız
 Programın toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi - Pazar__ günleri saat __17-00 – 21-00__ saatleri arasında __4__'er saat olarak yapılacaktır.
+Dersler __Cumartesi - Pazar__ günleri saat __09-00 – 13-00__ saatleri arasında __4__'er saat olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
-__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-16-Nisan-2022/blob/main/kurs_icerigi.md)__
+__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-Java-ile-Nesne-Yonelimli-Programlama-Kursu-20-Agustos-2022/blob/main/kurs_icerigi.md)__
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
@@ -72,9 +72,9 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 __Java ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-+ Kursun toplam ücreti __5.100 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __4.600__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. 
++ Kursun toplam ücreti __5.750 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __5.200__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. 
 ## Eğitim Programına Kayıt
-__[Katılım için önce ön kayıt yaptırmalısınız](   https://us02web.zoom.us/meeting/register/tZYlcuuuqjspHtDnly_nR4rFYGxQqgrjBAcI)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZMpfuiurjspGt2e7nNENRoq3Lj3NFesbat5)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
 __Java ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-16-Nisan-2022/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/)__ ya da ona bir __[e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)__
