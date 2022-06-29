@@ -8,7 +8,7 @@ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafı
 + Kursun toplam ücreti KDV dahil __5.750 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __5.200__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. 
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-16-Nisan-2022/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-16-Nisan-2022/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-16-Nisan-2022/blob/main/sss.md)
-+ [Kursa Kayıt](  https://us02web.zoom.us/meeting/register/tZYlcuuuqjspHtDnly_nR4rFYGxQqgrjBAcI)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Java-ile-Nesne-Yonelimli-Programlama-Kursu-20-Agustos-2022/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Java-ile-Nesne-Yonelimli-Programlama-Kursu-20-Agustos-2022/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Java-ile-Nesne-Yonelimli-Programlama-Kursu-20-Agustos-2022/blob/main/sss.md)
++ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZMpfuiurjspGt2e7nNENRoq3Lj3NFesbat5)
